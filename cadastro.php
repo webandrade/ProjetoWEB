@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
@@ -18,7 +18,7 @@
             <input type="text" value="Insira seu nome" name="txt_nome">
             <br>
             <legend><strong>Digite sua senha</strong></legend>
-            <input type="password" value="Insira seu senha" name="txt_senha">
+            <input type="password" value="Insira sua senha" name="txt_senha">
             <br>
             <legend><strong>Digite seu email</strong></legend>
             <input type="email" value="Insira seu email" name="txt_email">
@@ -27,7 +27,6 @@
             <input type="submit" value="Cadastrar" class="button">
         </form>
     </main>
-
 </body>
 
 </html>
