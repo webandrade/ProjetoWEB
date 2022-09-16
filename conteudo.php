@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
@@ -13,7 +13,6 @@
     <main>
         <div class="div-main">
         <a href="index.php" class="voltar">Voltar</a>
-        
             <h1>APRENDA DESENVOLVIMENTO WEB</h1>
             <p>"Algumas ferramentas, video aulas e sites que nos ajudaram a aprender e desenvolver sites e aplicaçõess
                 web"</p>
@@ -28,7 +27,6 @@
                                 Microsoft. A saber, ele está disponível para Windows, Mac e Linux. É criado com
                                 Electron, ferramenta criada pelo GitHub que permite a criação de softwares Desktop com
                                 HTML, CSS e JavaScript.
-
                             </li>
                             <li>
                                 <a href="https://www.wampserver.com/en/download-wampserver-64bits/" target="_blank">WAMP
@@ -90,10 +88,8 @@
                     </li>
                 </ul>
             </div>
-
         </div>
     </main>
-
 </body>
 
 </html>
